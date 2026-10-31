@@ -10,7 +10,7 @@ const CONFIG = {
     // Suara peringatan seatbelt. Tidak ada file suara di paket ini.
     // Taruh file suara Anda di folder yang sama dengan index.html dengan nama di bawah ini
     // (atau ganti namanya di sini). Kosongkan ('') jika tidak ingin memakai suara.
-    seatbeltSound: 'seatbelt.mp3',
+    seatbeltSound: 'speedometer_sound.mp3',
     seatbeltVolume: 0.8,
 
     // true  = kedip merah dan suara hanya aktif kalau mesin hidup
